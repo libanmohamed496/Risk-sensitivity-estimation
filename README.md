@@ -1,6 +1,6 @@
 # Risk sensitivity estimation
 
-This repository contains the output produced by a 3-week research project hosted by UMN's Institue for Mathematics and its Applications with industry partners at Securian Financial. The project involved a two-tiered process for estimating risk sensitivities, first by producing Monte Carlo estimates for given market conditions and then by interpolating between those estimates. All work included in this repository is my own (Liban's), except for five_pt_reg.py, which is due to Radmir Sultamuratov.
+This repository contains the output produced by a 3-week research project hosted by UMN's Institue for Mathematics and its Applications with industry partners at Securian Financial. The project involved a two-tiered process for estimating risk sensitivities, first by producing Monte Carlo estimates for given market conditions and then by interpolating between those estimates. All work included in this repository is my own ([Liban](https://www.linkedin.com/in/libanmohamed496/)'s), except for five_pt_reg.py, which is due to [Radmir Sultamuratov](https://www.linkedin.com/in/radmir-sultamuratov/).
 
 Where to start: the following is quite **tl;dr**, so feel free to jump in by looking at these two notebooks. For results and pictures, just look at the second:
 
