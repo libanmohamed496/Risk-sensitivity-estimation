@@ -1,6 +1,6 @@
 # Risk sensitivity estimation
 
-Where to start: the following is quite **tl;dr**, so feel free to jump in by looking at these two notebooks:
+Where to start: the following is quite **tl;dr**, so feel free to jump in by looking at these two notebooks. For results and pictures, look at the second:
 
     gmab_model writeup.ipynb
     Sr regression writeup.ipynb
